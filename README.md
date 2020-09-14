@@ -7,5 +7,6 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... https://marek-rogala.web.app
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I was working in UK for 3 years.
+
+All mof my work is being done in React.js. You can see a live demo of each project is each repository readme. 
 
