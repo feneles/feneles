@@ -8,5 +8,5 @@
 - 📫 How to reach me: ... https://marek-rogala.web.app
 - 😄 Pronouns: ... He/Him
 
-All mof my work is being done in React.js. You can see a live demo of each project is each repository readme. 
+All of my work is being done in React.js. You can see a live demo of each project is each repository readme. 
 
