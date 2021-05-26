@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning ... ReactJS
-- 👯 I’m looking to collaborate on ... ReactJS
-- 🤔 I’m looking for help with ... ReactJS
+- 🌱 I’m currently working In Orange Maple
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... https://marek-rogala.web.app
 - 😄 Pronouns: ... He/Him
