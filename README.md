@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently working In Orange Maple
+- 🌱 I’m currently working In Brainly
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... https://marek-rogala.web.app
 - 😄 Pronouns: ... He/Him
